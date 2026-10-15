@@ -28,20 +28,21 @@ const priyanshu = {
 ## GitHub Analytics
 
 <p align="left">
-  <!-- GitHub Stats Card -->
-  <img src="https://vercel.app" height="190px" alt="Priyanshu's GitHub Stats" />
+  <!-- Maintained GitHub Stats Alternative -->
+  <img src="https://vercel.app" height="190px" alt="GitHub Stats" />
   
-  <!-- Streak Counter Card -->
-  <img src="https://herokuapp.com" height="190px" alt="Priyanshu's Streak Stats" />
+  <!-- Maintained Streak Stats Alternative -->
+  <img src="https://herokuapp.com" height="190px" alt="Streak Stats" />
 </p>
 
 <p align="left">
-  <!-- Most Used Languages Card -->
+  <!-- Maintained Top Languages Alternative -->
   <img src="https://vercel.app" height="200px" alt="Top Languages" />
 </p>
 
 ### Contribution Graph
 <p align="center">
-  <!-- The Purple Contribution Wave Graph -->
-  <img src="https://vercel.app" width="100%" alt="Priyanshu's Contribution Graph" />
+  <!-- Direct Activity Wave Graph -->
+  <img src="https://vercel.app" width="100%" alt="Contribution Graph" />
 </p>
+
