@@ -1,19 +1,18 @@
 # Priyanshu Bhatt
-### DevOps Explorer & Developer
+### Asipiring Software Engineer | Java, DSA & Backend Development
 
 ## About Me
 ```javascript
 const priyanshu = {
   name: "Priyanshu Bhatt",
   goal: "Building a strong foundation for DevOps Engineering",
-  currentChallenge: "Documenting my DevOps Journey!"
 };
 ```
 
 ## Active Projects
-* **[Devops-Journey](https://github.com)** - Documenting my daily progress, scripts, and notes as I learn during my journey.
+** https://github.com/PriyanshuBhatt67/Java- Documenting my progress as I learn during my journey.
 
-## What I have Learned till now
+## Languages & Tools
 
 ### Languages
 <p align="left">
