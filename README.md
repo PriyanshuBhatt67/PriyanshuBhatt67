@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Bhatt</h1>
 <h3 align="center">An Aspiring SDE from Nepal</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyanshubhatt67" alt="priyanshubhatt67" /></a> </p>
+
 - 🔭 I’m currently Working on [Java](https://github.com/PriyanshuBhatt67/Java)
 
 - 📫 How to reach me **bhattbd83@gmail.com**
